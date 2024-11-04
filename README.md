@@ -24,17 +24,29 @@ Data Source
 The dataset used in this project contains HR-related data with the following variables:
 
 Employee_ID: Unique identifier for each employee
+
 First Name and Last Name: Employee's first and last name
+
 Gender: Gender of the employee
+
 State and City: Location of the employee
+
 Education Level: Highest level of education attained by the employee
+
 Birthdate: Date of birth of the employee
+
 Hiredate: Date the employee was hired
+
 Termdate: Date the employee left the company (if applicable)
+
 Department: Department in which the employee works
+
 Job Title: Job title or role of the employee
+
 Salary: Annual salary of the employee
+
 Performance Rating: Most recent performance rating of the employee
+
 Note: The dataset is in CSV format and contains over 8,950 rows, providing detailed insights across multiple employee metrics.
 
 Dashboard Features
@@ -83,6 +95,7 @@ Gender Ratio: The company has a nearly balanced gender ratio, with slightly more
 Education and Performance: Employees with higher education levels tend to have higher performance ratings.
 Salary Analysis: Master’s degree holders, on average, earn higher salaries compared to employees with lower education levels, with visible discrepancies by gender.
 Employee Tenure: The dashboard reveals the average length of employment across departments, providing insights into employee retention.
+
 Technologies Used
 Tableau: For building interactive data visualizations.
 CSV (Comma-Separated Values): Data extraction and preparation.
